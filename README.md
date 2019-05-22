@@ -9,7 +9,7 @@ Trip Screen            |  Splash Screen
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com/kemojal/DrivApp/blob/master/gif/_g3.gif "gif of the app") | ![alt text](https://github.com/kemojal/DrivApp/blob/master/gif/_splash.png "gif of the app")
 
-###Used Libraries 
+## Used Libraries 
 1. react navigation
 2. react-native-maps
 3. Expo
