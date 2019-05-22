@@ -1,6 +1,14 @@
 # DrivApp
 A mobile for drivers build using react native 
 
+Home Screen            |  Driver Reward Screen
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/kemojal/DrivApp/blob/master/gif/_g1.gif "gif of the app")  |  ![alt text](https://github.com/kemojal/DrivApp/blob/master/gif/_g2.gif "gif of the app")
+
+Trip Screen            |  
+:-------------------------:|:-------------------------:
+![alt text](https://github.com/kemojal/DrivApp/blob/master/gif/_g3.gif "gif of the app")
+
 ###Used Libraries 
 1. react navigation
 2. react-native-maps
@@ -20,5 +28,9 @@ A mobile for drivers build using react native
 1. Download or git clone the project
 2. cd to the project directory and command npm install
 3. hit expo start 
+
+
+
+
 
 
