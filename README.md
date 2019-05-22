@@ -5,9 +5,9 @@ Home Screen            |  Driver Reward Screen
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com/kemojal/DrivApp/blob/master/gif/_g1.gif "gif of the app")  |  ![alt text](https://github.com/kemojal/DrivApp/blob/master/gif/_g2.gif "gif of the app")
 
-Trip Screen            |  
+Trip Screen            |  Splash Screen
 :-------------------------:|:-------------------------:
-![alt text](https://github.com/kemojal/DrivApp/blob/master/gif/_g3.gif "gif of the app")
+![alt text](https://github.com/kemojal/DrivApp/blob/master/gif/_g3.gif "gif of the app") | ![alt text](https://github.com/kemojal/DrivApp/blob/master/gif/_splash.png "gif of the app")
 
 ###Used Libraries 
 1. react navigation
