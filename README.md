@@ -12,10 +12,15 @@ Trip Screen            |  Splash Screen
 ## 🔷 Used Libraries 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ react navigation
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ react-native-maps
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Expo
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ react-native-vector-icons
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ react-native-circular-progress
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ hex-to-rgba
 
 
